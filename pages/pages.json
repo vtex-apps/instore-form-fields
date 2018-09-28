@@ -1,0 +1,12 @@
+{
+  "pages": {
+    "registration-container": {
+      "path": "/legacy-extensions/registration-container"
+    }
+  },
+  "extensions": {
+    "registration-container": {
+      "component": "vtex.render-runtime/ExtensionContainer"
+    }
+  }
+}
