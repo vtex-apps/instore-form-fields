@@ -5,7 +5,7 @@ This is an VTEX IO app that provides the tooling for adding extra fields on your
 It is as simple as creating a new IO React App and adding
 
 ```
-    "registration-container/{{whatever-name}": {
+    "registration-container/{{whatever-name}}": {
       "component": "vtex.instore-form-fields/FormInput",
       "props": {
         "ffor": "{{key on Masterdata}}",
