@@ -1,7 +1,8 @@
 {
   "pages": {
     "registration-container": {
-      "path": "/legacy-extensions/registration-container"
+      "path": "/legacy-extensions/registration-container",
+      "disableExternals": ["react", "tachyons"]
     }
   },
   "extensions": {
