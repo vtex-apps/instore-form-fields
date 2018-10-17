@@ -1,7 +1,7 @@
 {
   "vendor": "vtex",
   "name": "instore-form-fields",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "title": "Instore Form Addon",
   "description": "Insert new fields in the user registration form",
   "defaultLocale": "pt-BR",
