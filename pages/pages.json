@@ -2,7 +2,7 @@
   "pages": {
     "registration-container": {
       "path": "/legacy-extensions/registration-container",
-      "disableExternals": ["react", "tachyons", "animate", "prop-types"]
+      "disableExternals": ["react", "tachyons", "animate"]
     }
   },
   "extensions": {
