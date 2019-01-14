@@ -7,6 +7,7 @@ class FormInput extends Component {
     for: PropTypes.string,
     nameKey: PropTypes.string,
     initialValue: PropTypes.string,
+    isRequired: PropTypes.bool,
   }
 
   static defaultTypes = {
