@@ -7,4 +7,6 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [0.1.4] - 2019-01-14
+
 - Enable inputs to be required (not empty)
