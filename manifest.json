@@ -6,7 +6,7 @@
   "description": "Insert new fields in the user registration form",
   "defaultLocale": "pt-BR",
   "builders": {
-    "react": "2.x"
+    "react": "3.x"
   },
   "mustUpdateAt": "2019-09-24",
   "categories": [],
