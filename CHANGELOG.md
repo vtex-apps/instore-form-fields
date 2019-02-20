@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [1.0.0] - 2019-02-20
+### Changed
+- Upgrade to react builder v3.
+
 ## [0.1.4] - 2019-01-14
 
 - Enable inputs to be required (not empty)
